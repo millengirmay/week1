@@ -16,6 +16,7 @@ public class methods {
 
     public static void main(String[] args) {
         greet();
+        greet();
         System.out.println(add(5,6));
         int sum = add(8,9);
         System.out.println(sum);
