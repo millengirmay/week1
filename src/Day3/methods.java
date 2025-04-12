@@ -1,5 +1,6 @@
 package Day3;
 //when we don't declare the method as void we should use datatype that we want to return
+//You cannot declare static variables inside methods (those are called local variables and can't be static).
 public class methods {
     public static void greet(){
         System.out.println("Hello World. I am in a method/function");
